@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@tamagui/core": "^1.125.31",
+    "@tamagui/themes": "^1.125.31",
+    "@tamagui/web": "^1.125.31",
+    "react-native-svg": "^15.11.2",
+    "tamagui": "^1.125.31"
+  }
+}
